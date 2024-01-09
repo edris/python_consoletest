@@ -1,5 +1,5 @@
-0x800,00 11 22
-0x100,GG HH II
+0x800,HireEdrisAmin
+0x100,EdrisAminIsHired
 123,AB CD EF
 0x200,1G 2H 3I
 0x300,ZZ
@@ -7,7 +7,7 @@
 0x450,
 0x500,AB
 hello,01 02 03
-0x600,01 02 03 04 05 06 07 08 09
+0x600,EdrisAminIsHired
 0x700,0F
 0x7FF,A0 B1
 0xFFF,CD EF
